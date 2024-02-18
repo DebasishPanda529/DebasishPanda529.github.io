@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "PH569 notes"
+excerpt: "Notes I made for the course of Applied Solid State Physics"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[These](https://DebasishPanda529.github.io/pdfs/applied-solid-state-physics.pdf) are the notes I made for the course of PH569 offered in the '23 Autumn semester by Prof. Suddhasatta Mahapatra. Would strongly recommend to complete PH418 (Intro To Condensed Matter Physics) before taking up this slightly more advanced course. 
