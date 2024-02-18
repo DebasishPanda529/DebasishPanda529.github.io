@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find a more detailed resume [here](https://DebasishPanda529.github.io/pdfs/resume.pdf).
+
 Education
 ======
 * B.Tech in Electrical Engineering, Indian Institute of Technology Bombay, 2025 (expected)
@@ -25,12 +27,3 @@ Scholastic Achievements
 Work Experience
 ======
 * Upcoming Analog Design Intern, Texas Instruments, Summer '23
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
