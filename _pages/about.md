@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Nunc scio nihil"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+*This website is currently under construction, and new features are being implemented for the time being. If some of the content seems irrelevant/nonsensical, please bear with my caprices.*
+
+Hello! I'm currently a third-year undergraduate student in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php) at the [Indian Institute of Technology Bombay, IN](https://www.iitb.ac.in/). I'm enrolled under the Dual Degree (B.Tech + M.Tech) programme offered by the university and am pursuing my specialisation in Solid State Devices (SSD) stream.
+
+I have a wide range of academic interests, which include the physics of semiconductor devices, condensed matter physics, and all things quantum. In particular, I've recently developed an interest in the nascent yet fast-evolving field of quantum transport, which involves the application of the principles of quantum mechanics to nanoscale devices. With this, I've also begun my baby steps into the field of academic research (which was long due by now).
+
+Apart from my academics, I indulge in all the vices of your average teenager- music, movies, and games. I'm a movie aficionado and love watching movies from diverse genres such as fantasy, history, Western, sci-fi, war, horror, and thrillers. Well, there's another genre, too, that of *Tarantino*, because, man, oh man, his movies are unlike anything you've ever watched. In my spare time, I make good use of my gaming laptop by putting it to exercise. I also love reading books, which encompass very much the same genres as the movies do.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
