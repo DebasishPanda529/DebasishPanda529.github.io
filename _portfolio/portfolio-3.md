@@ -1,6 +1,6 @@
 ---
 title: "UG RnD project"
-excerpt: "<br/><img src='/images/bloch.png'>"
+excerpt: "<br/><img src='/images/bloch.png' width='500' height='300'>"
 collection: portfolio
 ---
 
