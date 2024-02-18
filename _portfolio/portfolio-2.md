@@ -1,7 +1,7 @@
 ---
 title: "Krittika '23"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/cosmos.jpg' width='300' height='500'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[pdf](https://DebasishPanda529.github.io/pdfs/magnetic-fields-and-stardust.pdf)
