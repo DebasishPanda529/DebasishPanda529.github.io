@@ -1,6 +1,6 @@
 ---
 title: "UG RnD project"
-excerpt: "LaTeX report documenting my progress in the project<br/><img src='/images/bloch.png' width='500' height='300'>"
+excerpt: "LaTeX report documenting my progress in the project<br/><img src='/images/graphene.png' width='300' height='180'>"
 collection: portfolio
 ---
 
