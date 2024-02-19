@@ -1,6 +1,6 @@
 ---
 title: "PH569 notes"
-excerpt: "Notes I made for the course of Applied Solid State Physics<br/><img src='/images/corral.jpg' width='500' height='300'>"
+excerpt: "Notes I made for the course of Applied Solid State Physics<br/><img src='/images/corral.jpg' width='300' height='180'>"
 collection: portfolio
 ---
 
