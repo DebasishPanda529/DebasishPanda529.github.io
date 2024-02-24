@@ -26,4 +26,4 @@ Scholastic Achievements
 
 Work Experience
 ======
-* Upcoming Analog Design Intern, Texas Instruments, Summer '23
+* Incoming Analog Design Intern, Texas Instruments, Summer '23
