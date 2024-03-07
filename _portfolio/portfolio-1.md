@@ -13,5 +13,5 @@ You can find the endsem paper [here](https://DebasishPanda529.github.io/pdfs/ph5
 [This](https://DebasishPanda529.github.io/pdfs/ph569/tutorial.pdf) is a highly instructive tutorial dealing with the concept of the interesting [Heisenberg Hamiltonian](https://folk.ntnu.no/johnof/magnetism-2012.pdf). (All credits are due to the course insrtuctor, none of these tutorials/solutions are my own)
 
 <p align="center">
-  <img src='/images/corral.jpg' width='300' height='180'>
+  <img src='/images/corral.jpg' width='400' height='240'>
 </p>
