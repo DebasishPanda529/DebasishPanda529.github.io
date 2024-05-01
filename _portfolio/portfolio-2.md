@@ -1,6 +1,6 @@
 ---
 title: "Krittika '23"
-excerpt: "Final report submitted for K-CAP'23"
+excerpt: "Final report submitted for K-CAP '23"
 collection: portfolio
 ---
 
