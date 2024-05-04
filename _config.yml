@@ -15,6 +15,7 @@ description              : &description "personal description"
 url                      : https://DebasishPanda529.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DebasishPanda529/DebasishPanda529.github.io"
+logo                     : "/images/schrodinger.gif"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "An engineer-physicist in the making"
   location         : "Mumbai, India"
-  employer         : "Texas Instruments"
+  employer         : #"Texas Instruments"
   uri              : # URL
   email            : "pandad091@gmail.com" 
 
