@@ -67,14 +67,14 @@ author:
   twitter          : "Debasish_529"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "PirateOfTheBlackPearl"
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "corral.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
