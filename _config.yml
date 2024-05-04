@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : "An engineer-physicist in the making"
   location         : "Mumbai, India"
-  employer         : #"Red Brick University"
+  employer         : "Texas Instruments"
   uri              : # URL
   email            : "pandad091@gmail.com" 
 
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   : "bloch.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
