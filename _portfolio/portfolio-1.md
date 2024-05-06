@@ -15,5 +15,3 @@ You can find the endsem paper [here](https://DebasishPanda529.github.io/pdfs/ph5
 <p align="center">
   <img src='/images/corral.jpg' width='400' height='240'>
 </p>
-
-<!-- ![image-center](/images/corral.jpg){: .align-center} -->
