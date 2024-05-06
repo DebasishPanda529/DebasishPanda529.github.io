@@ -1,5 +1,5 @@
 ---
-title: "PH569 notes"
+title: "<i>PH569 notes<i>"
 excerpt: "Notes I made for the course of Applied Solid State Physics"
 collection: portfolio
 ---

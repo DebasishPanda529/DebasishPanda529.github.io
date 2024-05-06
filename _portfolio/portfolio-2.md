@@ -1,5 +1,5 @@
 ---
-title: "Krittika '23"
+title: "<i>Krittika '23<i>"
 excerpt: "Final report submitted for K-CAP '23"
 collection: portfolio
 ---
