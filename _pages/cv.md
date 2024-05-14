@@ -21,9 +21,9 @@ Scholastic Achievements
 * Secured All India Rank 529 in JEE-Advanced  (2021)
 * Secured All India Rank 561 in JEE-Mains  (2021)
 * Secured All India Rank 4 in NEST-CEBS  (2021)
-* Recipient of the prestigious KVPY fellowship with AIR 419 in KVPY-SX   (2020)
-* Awarded the highly coveted NTSE scholarship, having qualified NTSE Stage-II examination   (2019)
+* Recipient of KVPY fellowship with AIR 419 in KVPY-SX   (2020)
+* Recipient of NTSE scholarship   (2019)
 
 Work Experience
 ======
-* Incoming Analog Design Intern, Texas Instruments, Summer '23
+* Analog Design Intern, Texas Instruments, Summer '24

@@ -4,7 +4,7 @@ excerpt: "Notes I made for the course of Applied Solid State Physics"
 collection: portfolio
 ---
 
-[These](https://DebasishPanda529.github.io/pdfs/ph569/applied-solid-state-physics.pdf) are the notes I made for the course of PH569 offered in the '23 Autumn semester by Prof. Suddhasatta Mahapatra. Would strongly recommend to complete PH418 (Intro To Condensed Matter Physics) before taking up this slightly more advanced course. 
+[These](https://DebasishPanda529.github.io/pdfs/ph569/applied-solid-state-physics.pdf) are the notes I made for the course of PH569 offered in the '23 Autumn semester by Prof. Suddhasatta Mahapatra. Would strongly recommend to complete PH418 (Intro To Condensed Matter Physics) before taking up this slightly more advanced course. This course is an excellent entryway into CMP since it covers many fundamental as well as interesting topics at an introductory level, an additional brownie point being that the tests were pretty chill too.
 
 You can find the midsem paper [here](https://DebasishPanda529.github.io/pdfs/ph569/midsem.pdf) and the solutions [here](https://DebasishPanda529.github.io/pdfs/ph569/midsem-solutions.pdf).
 
