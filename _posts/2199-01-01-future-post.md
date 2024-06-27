@@ -11,7 +11,7 @@ tags:
 SDF formally declares war on UNSA today at 13:30 GMT, mobilisation of reserve SATO troops ensues.
 
 
-This might very well be my last words before my mid-thorax is incinerated by a GaAlN plasma blast while assaulting an SDF outpost in the middle of some Martian wasteland which nobody gives a single shit about. So I just wanna keep it short and simple- I would like to thank all of my friends and family members who have stood behind me through thick and thin. You guys and gals are absolutely awesome! I'm not really the outgoing type, so it's a wonder that I do have friends who actually give a shit about my autisto-sociopathic ass. Lots of love to Mum and Dad. 
+This might very well be my last words before my mid-thorax is incinerated by a GaAlN plasma blast while assaulting an SDF outpost in the middle of some Martian wasteland which nobody gives a single shit about. So I just wanna keep it short and simple - I would like to thank all of my friends and family members who have stood behind me through thick and thin. You guys and gals are absolutely awesome! I'm not really the outgoing type, so it's a wonder that I do have friends who actually give a shit about my autisto-sociopathic ass. Lots of love to Mum and Dad. 
 
 
 Freedom is non-negotiable, and so are the goth metal *chiquas* of Ohio. My poor poor Martians, Lockheed Martin sends its regards. 
