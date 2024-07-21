@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-*This website is currently under construction, and new features are being implemented for the time being. If some of the content seems irrelevant/nonsensical, please bear with my caprices.*
-
 Hello! I'm currently a third-year undergraduate student in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php) at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I'm enrolled under the Dual Degree (B.Tech + M.Tech) programme offered by the university and am pursuing my specialisation in Solid State Devices (SSD) stream.
 
 I have a wide range of academic interests, which include the physics of semiconductor devices, condensed matter physics, and all things quantum. In particular, I've recently developed an interest in the nascent yet fast-evolving field of quantum transport, which involves the application of the principles of quantum mechanics to nanoscale devices. With this, I've also begun my baby steps into the field of academic research (which was long due by now).
