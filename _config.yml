@@ -267,6 +267,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _gallery
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+
 
 
 # Sass/SCSS
