@@ -1,6 +1,6 @@
 ---
 title: "One Ring to rule them all"
-excerpt: "1<br/><img src='/images/rivendell.jpg' width='350' height='250'>"
+excerpt: "<br/><img src='/images/rivendell.jpg' width='350' height='250'>"
 collection: gallery
 ---
 
