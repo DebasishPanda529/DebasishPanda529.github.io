@@ -13,10 +13,10 @@ _One Ring to rule them all, One Ring to find them_, \
 _One Ring to bring them all and in the darkness bind them_. \
 _In the Land of Mordor where the Shadows lie_.
 
-Though the finer details of LOTR lore have faded out of my memory over the years, it still remains one of the greatest novel series I've ever read - perhaps, it is _the_ fantasy series which started it all, because it laid down the foundation for nearly the entirety of modern fantasy franchises. 
+Though the finer details of LOTR lore have faded out of my memory over the years, it still remains one of the greatest novel series I've ever read - perhaps, it is _the_ fantasy series that started it all, because it laid down the foundation for nearly the entirety of modern fantasy franchises. 
 
 <p align="center">
   <img src='/images/the-one-ring.jpeg'>
 </p>
 
-A heavy burden that I carry around everyday. Fortunately, the ever-seeking vengeful Eye hasn't found me yet.
+A heavy burden that I carry around every day. Fortunately, the ever-seeking vengeful Eye hasn't found me yet.
