@@ -270,7 +270,7 @@ defaults:
   # _gallery
   - scope:
       path: ""
-      type: portfolio
+      type: gallery
     values:
       layout: single
       author_profile: true
