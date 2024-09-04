@@ -18,3 +18,5 @@ Though the finer details of LOTR lore have faded out of my memory over the years
 <p align="center">
   <img src='/images/the-one-ring.jpeg'>
 </p>
+
+A heavy burden that I carry around everyday. Fortunately, the ever-seeking vengeful Eye hasn't found me yet.
