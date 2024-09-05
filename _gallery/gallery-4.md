@@ -39,8 +39,3 @@ Of course I like cats. Wdym I can't just pet any random kitty out on the streets
 <p align="center">
   <img src='/images/kitty-7.jpg'>
 </p>
-
-
-<p align="center">
-  <img src='/images/kitty-8.jpg'>
-</p>
