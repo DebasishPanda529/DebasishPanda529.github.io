@@ -1,5 +1,5 @@
 ---
-title: 'Just havin' some fun with astronomy'
+title: "Just havin' some fun with astronomy"
 excerpt: "Stuff I've done as a part of Krittika's annual astronomy projects"
 collection: portfolio
 ---
