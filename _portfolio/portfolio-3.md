@@ -1,5 +1,5 @@
 ---
-title: "<i>Contact-ing the Schrödinger<i>"
+title: 'Contact-ing the Schrödinger'
 excerpt: "Stuff related to ongoing RnD in quantum transport and related topics in CMP"
 collection: portfolio
 ---
