@@ -1,41 +1,41 @@
 ---
 title: "Arsenal of Democracy"
-excerpt: "<div style='display: flex; align-items: center;'><h1>Arsenal of Democracy</h1><img src='/images/kitty-8.jpg' style='margin-left: 20px; width: 300px; height: 300px;'/></div>"
+# excerpt: "<br/><img src='/images/hydro-9.jpg' width='400' height='300'>"
 collection: gallery
 ---
 
-Of course I like cats. Wdym I can't just pet any random kitty out on the streets? _Pspspsps_. 
+
 
 <p align="center">
-  <img src='/images/kitty-1.jpg'>
+  <img src='/images/ncd-1.jpg' width='320' height='180'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-2.jpg'>
+  <img src='/images/ncd-2.jpg' width='200' height='250'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-3.jpg'>
+  <img src='/images/ncd-3.jpg' width='180' height='320'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-4.jpg'>
+  <img src='/images/ncd-4.jpg' width='180' height='320'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-5.jpg'>
+  <img src='/images/ncd-5.jpg' width='200' height='325'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-6.jpg'>
+  <img src='/images/ncd-6.jpg' width='320' height='180'>
 </p>
 
 
 <p align="center">
-  <img src='/images/kitty-7.jpg'>
+  <img src='/images/ncd-7.jpg' width='320' height='180'>
 </p>
