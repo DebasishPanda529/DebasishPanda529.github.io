@@ -1,6 +1,6 @@
 ---
 title: "Arsenal of Democracy"
-excerpt: "<br/><img src='/images/f-35_poland.png' width='320' height='180'>"
+excerpt: "<br/><img src='/images/f-35_poland.jpg' width='320' height='180'>"
 collection: gallery
 ---
 
