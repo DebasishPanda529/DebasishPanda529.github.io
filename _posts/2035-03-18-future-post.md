@@ -7,7 +7,7 @@ tags:
   - Alt history
 ---
 
-14 2200Z MAY 28: Taiwanese President Hai Long assumes complete control over the erstwhile Legislative Yuan and formally crowns himself as Emperor Chiang Kai-Shek II with unanimous support from the revanchist elements of the majority Chinese Nationalist Party in the Yuan.
+14 2200Z MAY 28: Taiwanese President Chen Shui-bian assumes complete control over the erstwhile Legislative Yuan and formally crowns himself as Emperor Chiang Kai-Shek II with unanimous support from the revanchist elements of the majority Chinese Nationalist Party in the Yuan.
 
 20 1145Z JUL 28: The Emperor declares the national policy of reclaiming the lost glory of the Republic of China, and announces the Taiwanese breakthrough in manufacturing intermediate-range thermonuclear devices in association with the JSDF and ROKAF, independent of QUAD and/or NATO influence.
 
